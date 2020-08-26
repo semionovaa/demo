@@ -5,8 +5,9 @@
     { "id": 3, "title": "Post 3" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "name": "Nadezhda", "body": "Вишнёвый кампот лучше всего!", "postId": 1 },
+    { "id": 2, "name": "Anastasia", "body": "Хорошо, да будет по вашему.", "postId": 1 }
+    { "id": 2, "name": "Vilka", "body": "Чик-чирик я в домике!", "postId": 1 }
   ],
   "profile": {
     "name": "typicode"
