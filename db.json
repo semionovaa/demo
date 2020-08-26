@@ -6,7 +6,7 @@
   ],
   "comments": [
     { "id": 1, "name": "Nadezhda", "body": "Вишнёвый кампот лучше всего!", "postId": 1 },
-    { "id": 2, "name": "Anastasia", "body": "Хорошо, да будет по вашему.", "postId": 1 }
+    { "id": 2, "name": "Anastasia", "body": "Хорошо, да будет по вашему.", "postId": 1 },
     { "id": 2, "name": "Vilka", "body": "Чик-чирик я в домике!", "postId": 1 }
   ],
   "profile": {
